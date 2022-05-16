@@ -1,3 +1,4 @@
+<div align="center">
 <div>
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmarcusvoltolim%2Fmarcusvoltolim" target="_blank">
         <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fmarcusvoltolim%2Fmarcusvoltolim&labelColor=%23697689&countColor=%2337d67a&style=plastic"/>
@@ -42,10 +43,11 @@
 </div>
 
 <h1>Statistics:</h1>
-<div align="center">
+<div>
     <a href="https://github.com/marcusvoltolim">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvoltolim&theme=flag-india&show_icons=true&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvoltolim&theme=flag-india"/>
     </a>
     <img src="https://github.com/marcusvoltolim/marcusvoltolim/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 </div>
