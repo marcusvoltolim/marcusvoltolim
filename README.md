@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=marcusvoltolim.visitor-badge&left_color=red&right_color=green) 
+
 ### Technologies:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="50" height="50"/> 
