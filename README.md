@@ -9,9 +9,7 @@
             <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=pastlic&logo=linkedin&logoColor=white" target="_blank">
         </a>
     </div>
-
     <hr>
-
     <h3>Technologies:</h3>
     <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="50" height="50"/>
@@ -43,9 +41,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" height="50"/>
     </div>
-
     <hr>
-
     <h3>Stats:</h3>
     <div>
         <a href="https://github.com/marcusvoltolim">
