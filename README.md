@@ -1,4 +1,4 @@
-### Techologies:
+### Technologies:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/> 
@@ -36,6 +36,11 @@
 <a href="https://www.linkedin.com/in/marcusvoltolim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 </div>
 
-###
-
+### Statistics: 
+<div>
+<a href="https://github.com/marcusvoltolim">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvoltolim&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvoltolim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 ![Snake animation](https://github.com/marcusvoltolim/marcusvoltolim/blob/output/github-contribution-grid-snake.svg)
