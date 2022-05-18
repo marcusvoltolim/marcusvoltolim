@@ -10,8 +10,8 @@
         </a>
     </div>
     <hr>
-    <h3>Technologies:</h3>
     <div>
+        <h3>Technologies:</h3>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
@@ -42,8 +42,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" height="50"/>
     </div>
     <hr>
-    <h3>Stats:</h3>
     <div>
+        <h3>Trophies:</h3>
+        <img src="https://github-profile-trophy.vercel.app/?username=marcusvoltolim&column=3"/>
+    </div>
+    <hr>
+    <div>
+        <h3>Stats:</h3>
         <a href="https://github.com/marcusvoltolim">
             <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvoltolim&theme=flag-india&show_icons=true&include_all_commits=true&count_private=true"/>
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvoltolim&theme=flag-india"/>
