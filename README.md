@@ -44,7 +44,7 @@
     <hr>
     <div>
         <h3>Trophies:</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=marcusvoltolim&column=3"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=marcusvoltolim&column=3&margin-h=5&margin-w=5&theme=monokai"/>
     </div>
     <hr>
     <div>
