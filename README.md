@@ -8,6 +8,9 @@
         <a href="https://www.linkedin.com/in/marcusvoltolim" target="_blank">
             <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=pastlic&logo=linkedin&logoColor=white" target="_blank">
         </a>
+        </br>
+        <a href="https://forms.gle/AqqGqfy6iw3cAvkWA" target="_blank"><b>Invite me to a job!</b>
+        </a>
     </div>
     <hr>
     <div>
