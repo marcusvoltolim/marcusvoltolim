@@ -36,6 +36,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-plain-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-plain-wordmark.svg" width="50" height="50"/>
     </div>
     <br>
     <div>
