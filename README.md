@@ -58,7 +58,6 @@
     </div>
     <br>
     <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-plain.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="50" height="50"/>
