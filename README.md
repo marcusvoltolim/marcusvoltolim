@@ -18,11 +18,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-original.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50"/>        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50"/>      
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50" height="50"/>
    </div>
     <br>
     <div>
@@ -40,7 +39,6 @@
     <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>
