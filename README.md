@@ -22,6 +22,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50"/>      
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-plain.svg" width="50" height="50"/>
    </div>
     <br>
     <div>
