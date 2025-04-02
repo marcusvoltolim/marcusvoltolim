@@ -21,8 +21,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-plain.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.15.1/icons/gradle/gradle-plain-wordmark.svg" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.15.1/icons/intellij/intellij-original-wordmark.svg" width="50" height="50"/>
     </div>
     <br>
     <div>
